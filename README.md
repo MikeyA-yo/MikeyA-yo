@@ -24,10 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeya-yo&show_icons=true&locale=en" alt="mikeya-yo" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeya-yo&show_icons=true&locale=en&layout=compact" alt="mikeya-yo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeya-yo&show_icons=true&locale=en" alt="mikeya-yo" /></p>
-
 
 <!---
 MikeyA-yo/MikeyA-yo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
