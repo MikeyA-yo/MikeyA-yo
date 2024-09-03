@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeya-yo&label=Profile%20views&color=0e75b6&style=flat" alt="mikeya-yo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeya-yo" alt="mikeya-yo" /></a> </p>
 
-- 🔭 I’m currently working on [Callie](https://github.com/MikeyA-yo/callie)
+- 🔭 I’m currently working on [Callie](https://https://github.com/MikeyA-yo/callie)
 
-- 🌱 I’m currently learning **wails, bun, hono, expresss, Go, gin**
+- 🌱 I’m currently learning **wails,bun, hono, expresss, Go, gin**
 
 - 👯 I’m looking to collaborate on [random.js](https://github.com/MikeyA-yo/randomjs)
 
