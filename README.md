@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeya-yo" alt="mikeya-yo" /></a> </p>
 
-- 🔭 I’m currently working on [Callie](https://github.com/MikeyA-yo/callie)
+- 🔭 I’m currently working on [Ay](https://github.com/MikeyA-yo/ay-ts)
 
 - 🌱 I’m currently learning **wails,bun, hono, expresss, Go, gin**
 
-- 👯 I’m looking to collaborate on [random.js](https://github.com/MikeyA-yo/randomjs)
+- 👯 I’m looking to collaborate on [Ay](https://github.com/MikeyA-yo/ay-ts)
+
+- 👨‍💻 All of my projects are available at [https://mikeyayomide.vercel.app/](https://mikeyayomide.vercel.app/)
 
 - 💬 Ask me about **next, typescript, javascript**
 
